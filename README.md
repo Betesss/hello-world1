@@ -1,2 +1,5 @@
 # hello-world1
-Just another repository
+
+Hi!
+I am Taichi Saito.
+I am a student from Wasead university in Japan.
